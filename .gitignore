@@ -25,9 +25,6 @@ wheels/
 
 # Generated plots
 *.png
-down_throughput.png
-up_throughput.png
-rtt.png
 
 # Network capture files
 *.pcap
